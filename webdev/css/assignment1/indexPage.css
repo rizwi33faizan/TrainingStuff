@@ -1,0 +1,27 @@
+
+body{
+     background:gray
+    }
+
+div {
+     
+     width:500px;
+     margin:auto
+    }
+
+#q1 {
+     border-style:double;
+     border-color:white
+
+    }
+
+#q2 {
+     
+     border-style:double;
+     border-color:white
+     
+    }
+
+p {
+   text-align:center
+  }
